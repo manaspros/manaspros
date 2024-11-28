@@ -1,5 +1,39 @@
-# 💫 About Me:
-Passionate web developer skilled in HTML, CSS, JS, React, Python, C, C++. Built a full-stack app using Vite, Tailwind, Auth0, Stripe, Node.js & Express.
+
+
+# About Me 👨‍💻
+
+## 👋 Hi, I'm MANAS CHOUDHARY
+I’m a passionate **B.Tech student specializing in Data Science and Artificial Intelligence (DSAI)** at **IIIT Naya Raipur ('28 batch)**. My coding journey began in 9th grade during the COVID-19 pandemic, and I’ve loved every step of it!  
+
+### 🚀 What I Do  
+- **Web Development**: Proficient in creating full-stack websites and apps.  
+  - Built a **canteen ordering system** and a **food ordering website** with features like authentication, payment integration (Stripe/PhonePe), and a cart system.  
+  - Experimenting with **React Native** to convert my ReactJS apps into mobile-friendly versions.  
+- **Programming**: Skilled in **Python, C++, C**, and **JavaScript**.  
+- **UI/UX Design**: I’ve used tools like Material-UI, Tailwind CSS, and Spline 3D to craft clean and responsive interfaces.  
+
+### ✨ My Skills  
+- **Frontend**: HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Framer Motion  
+- **Backend**: Node.js, Express.js, MongoDB, Auth0  
+- **Mobile Development**: React Native  
+- **Other Tools**: TypeScript, Expo, Metro, and more!  
+
+### 🎯 Current Focus  
+- Exploring **large language models (LLMs)** and niche applications of AI/ML.  
+- Building a **Gemini assistant** to enhance user experience on my canteen website.  
+- Sharpening my skills in **DSA**, **AI**, and **Web3** for my second semester.  
+
+### 🏆 Achievements  
+- Successfully created a full-stack food ordering system with authentication and payment gateways.  
+- Member of the **Smart India Hackathon team**, working on police hardware inventory management.  
+- Active organizer and participant in events like **Media Matrix** and **Money Matter**.  
+
+### 🌱 Fun Facts  
+- I’m a **nature lover, nephophile, and selenophile**. 
+
+### 📌 Goals  
+To explore every potential field in technology during my college years, build impactful projects, and pave the way for a successful career in **AI and Data Science**.  
+
 
 
 ## 🌐 Socials:
