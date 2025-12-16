@@ -1,99 +1,176 @@
-# About Me 👨‍💻
+# 👋 Hi, I'm Manas Choudhary
 
-## 👋 Hi, I'm MANAS CHOUDHARY
-
-I’m a passionate **B.Tech student in Data Science and Artificial Intelligence (DSAI)** at **IIIT Naya Raipur ('28 batch)**. My coding journey began in 9th grade during the COVID-19 pandemic, and since then, I’ve been exploring various technologies and building impactful projects.
-
-### 🚀 What I Do
-
-* **Full-Stack Development**:
-
-  * Developed a **canteen ordering system** and a **food ordering website** with authentication (Auth0), secure database (MongoDB), and integrated payment systems (Stripe/PhonePe).
-  * Created responsive, modern frontends using **ReactJS**, **Material-UI**, and **Tailwind CSS**.
-  * Explored **React Native** for mobile application development.
-* **AI/ML & Robotics Development**:
-
-  * Created a **Tech Stack Assistant Chatbot** using **LLMs** for intelligent developer recommendations.
-  * Built a **Sentiment Analysis model** and an AI-based **Gemini Assistant** to enhance user engagement.
-* **Programming & Problem-Solving**: Proficient in **Python, C++, C, and JavaScript** with a growing focus on competitive programming and DSA.
-* **UI/UX Design**: Familiar with Spline 3D, Framer Motion, and animation libraries to craft immersive user experiences.
-
-### ✨ My Skills
-
-* **Frontend**: HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Material-UI, Framer Motion
-* **Backend**: Node.js, Express.js, MongoDB, Auth0
-* **Mobile Development**: React Native, Expo, Metro
-* **AI/ML**: OpenAI APIs, LLMs, Sentiment Analysis, CNNs, YOLO, Deep SORT
-* **Other Tools**: Docker, TypeScript, Git, GitHub, Firebase, Python Libraries (NumPy, Pandas, Matplotlib, TensorFlow, Scikit-Learn)
-
-### 🎯 Current Focus
-
-* Strengthening knowledge in **Reinforcement Learning**, **Web3**, and **system design**.
-
-### 🏆 Achievements
-
-* Developed a complete **full-stack food ordering platform** with modern UI and secure payment.
-* Research intern at **IIT Jodhpur**, contributing to real-time robotics and AI simulations.
-* Part of the **Smart India Hackathon team**, focused on police hardware inventory systems.
-* Organized & managed major college events: **Media Matrix**, **Money Matter**, and **Technovate**.
-* Secured **2nd place** at **E-Summit Hackathon** (E-Cell, IIIT NR) and **Hack-o-Harbor Hackathon**.
-
-### 🌱 Fun Facts
-
-* A **nature lover**, **nephophile**, and **selenophile**.
-* I find joy in **merging tech with real-world challenges**.
-
-### 📌 Goals
-
-To innovate at the **intersection of AI, robotics, and real-world utility**, while gaining hands-on experience across domains and becoming industry-ready by graduation.
+> **AI Engineer in the making | Robotics + Systems + Secure AI | IIIT Naya Raipur (DSAI '28)**
 
 ---
 
-## 🌐 Socials:
+## 🧠 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/the_never_ending_guy)
+I am a **B.Tech student in Data Science and Artificial Intelligence (DSAI)** at **IIIT Naya Raipur (Batch of 2028)**, with a strong focus on **AI systems, robotics, and production-grade full‑stack engineering**.
+
+I started coding in **Class 9 during the COVID period**, and over the years, my work has evolved from basic applications to **secure, multi‑agent AI systems, robotics simulations, and end‑to‑end products**.
+
+My core strength lies in **bridging AI research concepts with real-world engineering constraints** — security, scalability, and system design.
+
+---
+
+## 🚀 Flagship Projects & Systems
+
+### 🧠 Strategic Code Companion (VS Code Extension + CLI)
+
+**Semantic-aware, multi-agent AI system for deep codebase analysis**
+
+* Built a **production-grade VS Code extension and CLI** that performs *semantic code understanding*, not just static analysis.
+* Designed an **intelligent chunk selection system** using multi-dimensional scoring (complexity, business relevance, architectural importance).
+* Implemented **enhanced multi-agent orchestration** (RefactorAgent, ArchitectAgent, LibrarianAgent, TutorAgent) with context-aware reasoning.
+* Added **interactive visualizations** (dependency graphs, quality hotspots) and **professional report generation** (HTML, PDF, Markdown).
+* Supports **multi-LLM providers** (Gemini, Claude, OpenAI) with secure key storage using OS keychains.
+
+**Tech:** TypeScript, VS Code API, Node.js, LLMs, D3.js, CLI tooling
+
+---
+
+### 💰 Project Lumen — AI-Powered Financial Intelligence Platform
+
+**Hack-a-Sol Winner | Fine-tuned LLMs + Hybrid RAG + Agentic AI**
+
+* Built a **large-scale AI financial system** with **20+ specialized agents** executing in parallel (<500ms).
+* Fine-tuned **Llama 3.1 8B using LoRA** on **10,000+ Indian receipts** (final loss: 0.157).
+* Designed a **4-stage hybrid RAG pipeline** (FAISS + BM25 + MonoT5 + HyDE) achieving **92% precision**.
+* Implemented **natural-language → API execution** across 71 endpoints.
+* Added **blockchain-based audit trails** for tamper-proof financial records.
+
+**Tech:** FastAPI, Python, FAISS, BM25, MonoT5, Ollama, MongoDB, Ethereum, Docker
+
+---
+
+### 📄 RAG + Knowledge Graph Agent System (Insurance Domain)
+
+**Explainable decision-making using KG + LLMs**
+
+* Designed a **multi-agent document reasoning system** for insurance claim evaluation.
+* Integrated **Neo4j Knowledge Graphs** with LLM reasoning for clause-level explainability.
+* Built transparent decision pipelines with **justification, payout calculation, and policy references**.
+* Exposed system via **FastAPI** with production-ready APIs.
+
+**Tech:** Python, FastAPI, Neo4j, Google Gemini, Knowledge Graphs
+
+---
+
+### 🤖 Robotics & Applied AI
+
+* **AI-Powered Mobile Manipulator (ROS2)** using TurtleBot3, Gazebo, MoveIt, and deep-learning-based perception (YOLO, tracking).
+* **Research Intern — IIT Jodhpur**: real-time robotics simulation, perception pipelines, and autonomy research.
+* **AI Sentry Gun Project** with real-time face tracking and motor control.
+
+---
+
+### 🤖 Robotics & Applied AI
+
+* **AI‑Powered Mobile Manipulator (ROS2)**
+  Working on autonomous task execution using **ROS2, Gazebo, MoveIt, TurtleBot3**, and deep‑learning‑based perception (YOLO, tracking, dynamic obstacle handling).
+
+* **Robotics Research Intern — IIT Jodhpur**
+  Contributing to **real‑time robotics simulation, perception, and control pipelines**, focusing on AI‑driven autonomy.
+
+---
+
+### 🌐 Full‑Stack & Product Engineering
+
+* **Secure Food / Canteen Ordering Platforms**
+  End‑to‑end systems with **authentication (Auth0)**, **MongoDB**, role‑based access, and **payment integrations (Stripe / PhonePe)**.
+
+* **Modern Frontends**
+  Production‑ready UIs using **React, Next.js, Tailwind, Material‑UI, Framer Motion**, and strong UX principles.
+
+* **Mobile Development**
+  Experience with **React Native, Expo**, and cross‑platform app development.
+
+---
+
+## 🧩 Technical Skill Set
+
+### Languages
+
+* Python, C++, JavaScript, TypeScript, C
+
+### Frontend
+
+* React.js, Next.js, Tailwind CSS, Material‑UI, Framer Motion
+
+### Backend & Systems
+
+* Node.js, Express.js, FastAPI, REST APIs
+* MongoDB, PostgreSQL
+* Authentication & Security (Auth0, RLS)
+
+### AI / ML
+
+* Machine Learning & Deep Learning
+* LLMs, LangChain, Prompt Engineering
+* CNNs, YOLO, Deep SORT
+* TensorFlow, Keras, Scikit‑Learn
+
+### Robotics
+
+* ROS2, Gazebo, MoveIt
+* Perception, navigation, simulation
+
+### DevOps & Tooling
+
+* Docker, Git, GitHub, Linux
+* Data analysis: NumPy, Pandas, Matplotlib
+
+---
+
+## 🏆 Highlights & Achievements
+
+* 🥇 **Ai Intern - Atlan ** 
+* 🥇 **Overall 1nd Place — Hack‑a‑Sol Hackathon** 
+* 🥈 **Overall 2nd Place — Hack‑o‑Harbor Hackathon** (E‑Cell, IIIT Naya Raipur)
+* 🥈 **2nd Place — E‑Summit Hackathon** (First‑year participation)
+* 🎓 **Research Intern — IIT Jodhpur (Robotics & AI)**
+* 🧠 Built **production‑grade AI systems** with strong security guarantees
+* 👨‍💻 **Dev Club Head** — organizing technical events & mentoring juniors
+* 🏗️ Led and contributed to multiple large‑scale college tech events
+
+---
+
+## 🎯 Current Focus
+
+* Agentic AI systems & secure LLM architectures
+* Robotics autonomy & AI‑based perception
+* System design & scalable backend engineering
+* Preparing for long‑term growth as a **Senior AI Engineer / Architect**
+
+---
+
+## 🌱 Personal Notes
+
+* Nephophile • Selenophile • Nature & travel enthusiast
+* Strong believer in **learning by building real systems**
+* Interested in tech that survives outside demos
+
+---
+
+## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/-manas-choudhary-)
-
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-%23000000.svg?style=for-the-badge\&logo=ros\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Manaspros\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manaspros&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manaspros&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manaspros&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/the_never_ending_guy)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manaspros&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Metrics
+
+![](https://github-readme-stats.vercel.app/api?username=manaspros\&theme=dark\&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=manaspros\&theme=dark\&hide_border=false)
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=manaspros\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Manaspros\&icon=0\&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=manaspros\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Curated and structured for long‑term professional positioning -->
