@@ -65,16 +65,6 @@ My core strength lies in **bridging AI research concepts with real-world enginee
 
 ---
 
-### 🤖 Robotics & Applied AI
-
-* **AI‑Powered Mobile Manipulator (ROS2)**
-  Working on autonomous task execution using **ROS2, Gazebo, MoveIt, TurtleBot3**, and deep‑learning‑based perception (YOLO, tracking, dynamic obstacle handling).
-
-* **Robotics Research Intern — IIT Jodhpur**
-  Contributing to **real‑time robotics simulation, perception, and control pipelines**, focusing on AI‑driven autonomy.
-
----
-
 ### 🌐 Full‑Stack & Product Engineering
 
 * **Secure Food / Canteen Ordering Platforms**
@@ -125,7 +115,7 @@ My core strength lies in **bridging AI research concepts with real-world enginee
 
 ## 🏆 Highlights & Achievements
 
-* 🥇 **Ai Intern - Atlan ** 
+* 🥇 **Ai Intern - Atlan** 
 * 🥇 **Overall 1nd Place — Hack‑a‑Sol Hackathon** 
 * 🥈 **Overall 2nd Place — Hack‑o‑Harbor Hackathon** (E‑Cell, IIIT Naya Raipur)
 * 🥈 **2nd Place — E‑Summit Hackathon** (First‑year participation)
