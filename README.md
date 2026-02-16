@@ -81,9 +81,18 @@ const manas = {
 
 <div align="center">
 
-## 🏆 **Trophy Cabinet**
+## 🏆 **Achievement Showcase**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manaspros&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+<!-- Try multiple trophy alternatives - use whichever loads -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manaspros&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
+</p>
+
+<!-- Alternative trophy deployments (if main doesn't work) -->
+<!-- 
+<img src="https://github-trophies.vercel.app/?username=manaspros&theme=radical&no-frame=true&no-bg=true&row=1" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manaspros&theme=radical&no-frame=true&no-bg=true&row=1" />
+-->
 
 </div>
 
@@ -244,42 +253,54 @@ const manas = {
 
 <div align="center">
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Battle Stats**
 
-<!-- Using alternative reliable stats APIs -->
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manaspros&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="95%" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manaspros&theme=tokyonight" width="95%" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manaspros&theme=tokyonight" width="100%" />
 
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manaspros&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manaspros&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manaspros&theme=tokyonight" width="95%" />
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manaspros&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manaspros&theme=tokyonight" width="95%" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manaspros&theme=tokyonight&utcOffset=5.5" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manaspros&theme=tokyonight" width="49%" />
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manaspros&theme=tokyonight&utcOffset=5.5" width="95%" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manaspros&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -287,12 +308,11 @@ const manas = {
 
 <div align="center">
 
-## 🐍 **Contribution Snake Eating My Commits**
+## 🐍 **Snake Eating My Contributions**
 
 ![Snake animation](https://raw.githubusercontent.com/manaspros/manaspros/output/github-contribution-grid-snake-dark.svg)
 
-<!-- Setup Instructions:
-Create .github/workflows/snake.yml in your profile repo (manaspros/manaspros):
+<!-- Snake Setup: Create .github/workflows/snake.yml in manaspros/manaspros repo:
 
 name: Generate Snake
 
@@ -334,7 +354,7 @@ jobs:
 
 <div align="center">
 
-## 💼 **Professional Experience**
+## 💼 **Professional Journey**
 
 </div>
 
@@ -440,7 +460,7 @@ Delhi Public School
 
 <div align="center">
 
-## 💭 **Random Dev Wisdom**
+## 💭 **Dev Wisdom of the Day**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -450,7 +470,7 @@ Delhi Public School
 
 <div align="center">
 
-## 💡 **Why Hire Me as Senior AI Engineer?**
+## 💡 **Why Senior AI Engineer Role?**
 
 </div>
 
@@ -460,12 +480,13 @@ Delhi Public School
 
 ### 🎯 Production-First
 
-**Not a typical fresher:**
-- Real production systems
-- Security & monitoring
+**Not your typical fresher:**
+- Real production systems deployed
+- Security & monitoring built-in
 - Scalability from day 1
 - Proper error handling
-- Deployment pipelines
+- Complete deployment pipelines
+- Docker & cloud-native
 
 </td>
 <td width="33%" align="center">
@@ -474,22 +495,24 @@ Delhi Public School
 
 **Bridge the gap:**
 - IIT Roorkee & IIT Jodhpur research
-- Read & implement papers
+- Read & implement latest papers
 - Optimize for production
-- Ship with best practices
-- 70-80% efficiency gains
+- Ship with engineering best practices
+- 70-80% efficiency gains proven
+- Real impact on productivity
 
 </td>
 <td width="34%" align="center">
 
-### 👥 Proven Impact
+### 👥 Proven Track Record
 
 **Real-world results:**
-- Multiple production systems
-- 2x Hackathon Winner
-- Samsung R&D impact
+- Multiple production systems live
+- 2x Hackathon Winner (1st place)
+- Samsung R&D measurable impact
 - Atlan AI infrastructure
-- Research publications
+- Research publications pending
+- Technical leadership
 
 </td>
 </tr>
@@ -499,7 +522,7 @@ Delhi Public School
 
 <div align="center">
 
-## 📈 **Contribution Activity**
+## 📈 **Contribution Insights**
 
 <details open>
 <summary><b>🔥 Contribution Heatmap</b></summary>
@@ -513,18 +536,19 @@ Delhi Public School
 
 <div align="center">
 
-## 📫 **Let's Connect & Build Something Amazing**
+## 📫 **Let's Build the Future Together**
 
-**Status:** 🟢 Available for Senior AI Engineer / AI Architect roles  
-**Location:** Raipur, India (Open to relocation)  
-**Email:** manas24102@iiitnr.edu.in
+**Status:** 🟢 **Available for Senior AI Engineer / AI Architect roles**  
+**Location:** Raipur, India (Open to relocation worldwide)  
+**Email:** manas24102@iiitnr.edu.in  
+**Phone:** +91-7600566015
 
 <p>
   <a href="https://linkedin.com/in/-manas-choudhary-">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manas24102@iiitnr.edu.in">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/manaspros">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -540,14 +564,17 @@ Delhi Public School
 
 <div align="center">
 
-### 💡 *"Building production-grade AI systems that actually ship, not just demos"*
+### 💡 *"Building production-grade AI systems that actually ship, not just pretty demos"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ---
 
-⭐️ **Made with 💙 by [Manas Choudhary](https://github.com/manaspros)** ⭐️
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-💙_and_☕-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Hiring_Now-success?style=for-the-badge" />
+</p>
 
-**Last Updated:** February 2026 | **Current Role:** Research @ IIT Roorkee + AI Engineer @ Atlan 🚀
+**⭐️ From [Manas Choudhary](https://github.com/manaspros) | Last Updated: Feb 2026 🚀**
 
 </div>
