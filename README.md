@@ -5,16 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Manas+Choudhary+%F0%9F%9A%80;AI+Engineer+%7C+Production+Systems;Research+%40+IIT+Roorkee+%7C+Samsung+%7C+Atlan" alt="Typing SVG" />
 </a>
 
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Realm&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 🎯 **Senior AI Engineer | Production-Ready**
+### 🎯 **  AI Engineer | Production-Ready**
 
 **Research @ IIT Roorkee** | **AI Engineer @ Atlan** | **R&D @ Samsung** | **SDE @ Sigmoyd**
 
@@ -76,25 +73,6 @@ const manas = {
     availability: "Open to Senior AI Engineer / AI Architect roles"
 };
 ```
-
----
-
-<div align="center">
-
-## 🏆 **Achievement Showcase**
-
-<!-- Try multiple trophy alternatives - use whichever loads -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manaspros&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
-</p>
-
-<!-- Alternative trophy deployments (if main doesn't work) -->
-<!-- 
-<img src="https://github-trophies.vercel.app/?username=manaspros&theme=radical&no-frame=true&no-bg=true&row=1" />
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manaspros&theme=radical&no-frame=true&no-bg=true&row=1" />
--->
-
-</div>
 
 ---
 
@@ -182,93 +160,8 @@ const manas = {
 
 <div align="center">
 
-## 🚀 **Featured Projects**
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🔬 LLM Bias Red-teaming (IIT Roorkee)
-**Current Research Project**
-
-- **Adversary Agent:** Autonomous bias trigger generation
-- **Defender Agent:** Real-time bias mitigation
-- **Architecture:** Multi-agent closed-loop system
-- **Innovation:** Beyond curated benchmarks
-- **Impact:** Automated bias discovery & patching
-
-**Tech:** Multi-Agent AI, LoRA, Adversarial ML
-
-</td>
-<td width="50%">
-
-### 🎨 Figma-to-React AI (Samsung R&D)
-**Design Automation System**
-
-- **AI-Powered:** MCP-based intelligent extraction
-- **Code Gen:** LLM-driven TypeScript generation
-- **Efficiency:** 70-80% time reduction
-- **Compliance:** WCAG accessibility validation
-- **Scale:** Enterprise design systems
-
-**Tech:** MCP, LLM Code Generation, Design Tokens
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 No-Code AI Agent Platform (Sigmoyd)
-**Production Platform**
-
-- **Natural Language:** Create agents via prompts
-- **Integrations:** Gmail, Slack, Notion, WhatsApp
-- **Fine-tuned:** DeepSeek with LoRA
-- **Privacy:** Open-source LLM approach
-- **Deployment:** One-click workflow launch
-
-**Tech:** FastAPI, DeepSeek, LoRA, MCP
-
-</td>
-<td width="50%">
-
-### 💻 Strategic Code Companion
-**AI Code Analysis Platform**
-
-- **AST Parsing:** Semantic-aware analysis
-- **Smart Chunking:** Multi-dimensional scoring
-- **Business Flow:** Context-aware recommendations
-- **Architecture:** Dependency graph generation
-- **Quality:** Hotspot detection
-
-**Tech:** AST, Babel, Multi-Agent, VS Code API
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 📊 **GitHub Battle Stats**
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manaspros&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="95%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manaspros&theme=tokyonight" width="95%" />
-
-</td>
-</tr>
-</table>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manaspros&theme=tokyonight" width="100%" />
 
@@ -301,52 +194,6 @@ const manas = {
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 **Snake Eating My Contributions**
-
-![Snake animation](https://raw.githubusercontent.com/manaspros/manaspros/output/github-contribution-grid-snake-dark.svg)
-
-<!-- Snake Setup: Create .github/workflows/snake.yml in manaspros/manaspros repo:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: manaspros
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 </div>
 
@@ -460,17 +307,7 @@ Delhi Public School
 
 <div align="center">
 
-## 💭 **Dev Wisdom of the Day**
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 **Why Senior AI Engineer Role?**
+## 💡 **Why AI Engineer Role?**
 
 </div>
 
@@ -517,20 +354,6 @@ Delhi Public School
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## 📈 **Contribution Insights**
-
-<details open>
-<summary><b>🔥 Contribution Heatmap</b></summary>
-<br>
-<img src="https://ghchart.rshah.org/00D9FF/manaspros" alt="GitHub Contribution Chart" width="100%"/>
-</details>
-
-</div>
 
 ---
 
