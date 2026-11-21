@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="232" viewBox="0 0 430 232" role="img" aria-label="Built: Sigmoyd, a no-code agent platform I co-founded so small teams could wire AI into their own tools. 400+ customers, INR 4 lakh revenue."><title>Built: Sigmoyd, a no-code agent platform I co-founded so small teams could wire AI into their own tools. 400+ customers, INR 4 lakh revenue.</title><style>
+.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif} .m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.ink{fill:#e6edf3} .mu{fill:#9198a1} .fa{fill:#6e7681}
+.cap{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:10.5px;letter-spacing:.09em;fill:#6e7681}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow 1.2s cubic-bezier(.2,.7,.2,1) both}
+.d2{animation-delay:.25s}
+.fade{animation:fade 1s ease-out .3s both}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x=".5" y=".5" width="429" height="231" rx="12" fill="#161b22" stroke="#30363d"/><rect x="24" y="22" width="75" height="22" rx="11" fill="#132f52"/><circle cx="36" cy="33" r="3.5" fill="#58a6ff"/><text x="46" y="37" class="m" font-size="10.5" font-weight="700" letter-spacing=".08em" fill="#58a6ff">BUILT</text><text x="406" y="37" text-anchor="end" class="cap">SIGMOYD · CO-FOUNDER</text><text x="24" y="80" class="s ink" font-size="18.5" font-weight="700" letter-spacing="-.01em">Small teams couldn&#x27;t wire</text><text x="24" y="104" class="s ink" font-size="18.5" font-weight="700" letter-spacing="-.01em">AI into their own tools</text><text x="24" y="156" class="s fade" font-size="34" font-weight="700" letter-spacing="-.02em" fill="#58a6ff">400+</text><text x="25" y="176" class="cap">CUSTOMERS</text><text x="200" y="156" class="s fade" font-size="34" font-weight="700" letter-spacing="-.02em" fill="#58a6ff">₹4 lakh</text><text x="201" y="176" class="cap">REVENUE</text><line x1="24" y1="190" x2="406" y2="190" stroke="#30363d" stroke-dasharray="2 4"/><text x="24" y="213" class="s mu" font-size="13">Co-founded a no-code, event-driven agent platform</text></svg>

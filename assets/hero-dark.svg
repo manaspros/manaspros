@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="Manas Choudhary. I build the parts of AI agents that break after the demo. Seeking a Software Engineering Internship."><title>Manas Choudhary. I build the parts of AI agents that break after the demo. Seeking a Software Engineering Internship.</title><style>
+.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif} .m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.ink{fill:#e6edf3} .mu{fill:#9198a1} .fa{fill:#6e7681}
+.cap{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:10.5px;letter-spacing:.09em;fill:#6e7681}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow 1.2s cubic-bezier(.2,.7,.2,1) both}
+.d2{animation-delay:.25s}
+.fade{animation:fade 1s ease-out .3s both}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+ <linearGradient id="ln" x1="568" x2="827" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+  <stop offset="0.5" stop-color="#f0a73a"/><stop offset="0.66" stop-color="#2dd4bf"/></linearGradient>
+ <linearGradient id="ar" x1="0" x2="0" y1="80" y2="232" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#2dd4bf" stop-opacity=".22"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="879" height="299" rx="16" fill="#161b22" stroke="#30363d"/>
+<rect x="36" y="34" width="339" height="24" rx="12" fill="#123f3a"/>
+<circle cx="50" cy="46" r="4" fill="#2dd4bf" style="animation:pulse 2.4s ease-in-out infinite"/>
+<text x="62" y="50" class="m" font-size="10.5" font-weight="700" letter-spacing=".08em" fill="#2dd4bf">SEEKING A SOFTWARE ENGINEERING INTERNSHIP</text>
+<text x="34" y="122" class="s ink" font-size="48" font-weight="800" letter-spacing="-.03em">Manas Choudhary</text>
+<text x="36" y="164" class="s ink" font-size="20.5">I build the parts of AI agents that break</text>
+<text x="36" y="192" class="s ink" font-size="20.5">after the demo<tspan fill="#2dd4bf" font-weight="700">.</tspan></text>
+<text x="36" y="236" class="cap">AI ENGINEER INTERN · ENTERPRISE AGENT PLATFORM</text>
+<text x="36" y="254" class="cap">RESEARCH INTERN · IIT ROORKEE</text>
+<text x="36" y="272" class="cap">B.TECH DATA SCIENCE &amp; AI · IIIT NAYA RAIPUR</text>
+<rect x="540" y="30" width="312" height="240" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="560" y="56" class="cap">AGENT RUN SUCCESS · 16+ TEAMS</text>
+<line x1="568" x2="827" y1="101.5" y2="101.5" stroke="#30363d" stroke-dasharray="3 4"/>
+<line x1="568" x2="827" y1="159.5" y2="159.5" stroke="#30363d" stroke-dasharray="3 4"/>
+<line x1="568" x2="827" y1="232" y2="232" stroke="#30363d"/>
+<line x1="702" x2="702" y1="74" y2="232" stroke="#6e7681" stroke-dasharray="2 3"/>
+<text x="707" y="226" class="m" font-size="9.5" fill="#6e7681">reliability sprint</text>
+<path d="M568,166.8 L581,172.6 L594,162.4 L607,169.7 L620,163.9 L633,174.0 L646,165.3 L659,160.9 L672,171.1 L685,166.8 C703,166.8 699,98.6 719,98.6 L731,100.1 L743,95.7 L755,98.6 L767,94.2 L779,101.5 L791,97.2 L803,92.8 L815,98.6 L827,95.7 L827,232 L568,232 Z" fill="url(#ar)" class="fade"/>
+<path d="M568,166.8 L581,172.6 L594,162.4 L607,169.7 L620,163.9 L633,174.0 L646,165.3 L659,160.9 L672,171.1 L685,166.8 C703,166.8 699,98.6 719,98.6 L731,100.1 L743,95.7 L755,98.6 L767,94.2 L779,101.5 L791,97.2 L803,92.8 L815,98.6 L827,95.7" fill="none" stroke="url(#ln)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"
+  pathLength="1" stroke-dasharray="1" style="animation:draw 2.2s cubic-bezier(.4,0,.2,1) both"/>
+<circle cx="827" cy="95.7" r="4" fill="#2dd4bf" class="fade"/>
+<text x="572" y="149.5" class="s" font-size="15" font-weight="700" fill="#f0a73a">40–50%</text>
+<text x="827" y="81.7" text-anchor="end" class="s" font-size="15" font-weight="700" fill="#2dd4bf">90%+</text>
+<text x="560" y="257" class="m" font-size="9" fill="#6e7681">before → after · shape illustrative</text>
+</svg>
